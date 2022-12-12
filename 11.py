@@ -1,6 +1,5 @@
 from dataclasses import dataclass
 from math import prod
-import sys
 
 puzzle_input = """Monkey 0:
   Starting items: 74, 64, 74, 63, 53
